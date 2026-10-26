@@ -69,6 +69,7 @@
 <a href="https://docs.github.com/en/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions"/></a>
 <br/>
 <a href="https://docs.qgis.org/latest/en/docs/" title="QGIS"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/></a>
+<a href="https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm" title="ArcGIS Pro"><img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Pro"/></a>
 <a href="https://leafletjs.com/reference.html" title="Leaflet"><img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/></a>
 <a href="https://pyodide.org/en/stable/" title="Pyodide"><img src="https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pyodide"/></a>
 <a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
