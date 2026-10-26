@@ -96,7 +96,9 @@ Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) U
 
 ## 📌 Currently
 
-Continuing the Mount Lavinia studio dashboard.
+<div align="center">
+  <img src="assets/currently.svg" width="100%" alt="Currently experimenting with tools for land use and land cover (LULC) prediction and comparing their accuracy"/>
+</div>
 
 ---
 
