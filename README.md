@@ -91,11 +91,7 @@ Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) U
 ## 🧭 How I work
 
 <div align="center">
-
-| ✏️ **Sketch** | 🛰️ **Analyse** | ⌨️ **Build** | ✅ **Own** |
-|:---:|:---:|:---:|:---:|
-| Information architecture on paper before any code | GIS and remote sensing for the spatial evidence | Hand-written code side by side with AI agents in [Cursor](https://cursor.com/) | Design calls, data reading, testing and the final code |
-
+  <img src="assets/how-i-work.svg" width="100%" alt="How I work: sketch on paper, analyse with GIS and remote sensing, build with hand-written code plus AI agents in Cursor, and own the design, data reading, testing and final code"/>
 </div>
 
 ## 📌 Currently
