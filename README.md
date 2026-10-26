@@ -90,7 +90,9 @@ Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) U
 
 ## 🧭 How I work
 
-I sketch information architecture on paper first, then implement it. Analysis uses GIS and remote sensing; interfaces use React and Leaflet. I use AI-assisted coding in [Cursor](https://cursor.com/). Design choices, data interpretation, testing, and final code are mine.
+<div align="center">
+  <img src="assets/how-i-work.svg" width="100%" alt="How I work: sketch on paper, analyse with GIS and remote sensing, build with hand-written code plus AI agents in Cursor, and own the design, data reading, testing and final code"/>
+</div>
 
 ## 📌 Currently
 
