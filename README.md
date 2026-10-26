@@ -24,46 +24,30 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🏙️ [Mount Lavinia Urban Analytics Dashboard](https://github.com/BronXTJ/mount-lavinia-dashboard)
-Studio decision-support app for five Grama Niladhari divisions on the Galle Road corridor: network centrality, density, walk access, land-cover change, and modelled thermal comfort, plus synthesis and issues/potentials.
-
-<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/> <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white" alt="D3"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/sDNA-0F766E?style=flat-square" alt="sDNA"/>
-
-[**Live demo →**](https://bronxtj.github.io/mount-lavinia-dashboard/)
-
+<a href="https://github.com/BronXTJ/mount-lavinia-dashboard"><img src="assets/card-mount-lavinia.svg" width="100%" alt="Mount Lavinia Urban Analytics Dashboard"/></a>
+<p>Decision-support app for five Grama Niladhari divisions on the Galle Road corridor: network centrality, density, walk access, land-cover change and modelled thermal comfort.</p>
+<p><a href="https://react.dev/"><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/></a> <a href="https://leafletjs.com/reference.html"><img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/></a> <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white" alt="D3"/></a> <a href="https://vite.dev/guide/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></a> <img src="https://img.shields.io/badge/sDNA-0F766E?style=flat-square" alt="sDNA"/></p>
+<p><a href="https://bronxtj.github.io/mount-lavinia-dashboard/"><img src="https://img.shields.io/badge/Live%20demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a> <a href="https://github.com/BronXTJ/mount-lavinia-dashboard"><img src="https://img.shields.io/badge/Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a></p>
 </td>
 <td width="50%" valign="top">
-
-### 🥋 [Py Dojo](https://github.com/BronXTJ/py-dojo)
-An offline-first path from beginner to Python and GIS programming: belts, a real interpreter in the page (Pyodide), and progress that stays in the browser. White Belt is built; later belts are mapped.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pyodide"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-
-[**Live demo →**](https://bronxtj.github.io/py-dojo/)
-
+<a href="https://github.com/BronXTJ/py-dojo"><img src="assets/card-py-dojo.svg" width="100%" alt="Py Dojo"/></a>
+<p>Offline-first, belt-based path from beginner to Python and GIS programming, with a real interpreter in the page. White Belt is built; later belts are mapped.</p>
+<p><a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/></a> <a href="https://pyodide.org/en/stable/"><img src="https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pyodide"/></a> <a href="https://go.dev/doc/"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/></a></p>
+<p><a href="https://bronxtj.github.io/py-dojo/"><img src="https://img.shields.io/badge/Live%20demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a> <a href="https://github.com/BronXTJ/py-dojo"><img src="https://img.shields.io/badge/Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🌊 [Sri Lanka Disaster Data Resource Hub](https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub)
-A public directory of verified datasets, dashboards, and relief links after Cyclone Ditwah. It indexes official and community sources; it does not generate data.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-
-[**Live site →**](https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/)
-
+<a href="https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub"><img src="assets/card-disaster-hub.svg" width="100%" alt="Sri Lanka Disaster Data Resource Hub"/></a>
+<p>Directory of verified datasets, dashboards and relief links after Cyclone Ditwah. It indexes official and community sources; it does not generate data.</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></a> <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a></p>
+<p><a href="https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/"><img src="https://img.shields.io/badge/Live%20site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"/></a> <a href="https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub"><img src="https://img.shields.io/badge/Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a></p>
 </td>
 <td width="50%" valign="top">
-
-### 📚 [Urban Informatics & Planning — 3rd Semester Guide](https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform)
-Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) Urban Informatics & Planning students, based on the student handbook.
-
-<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-
-[**Live site →**](https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/)
-
+<a href="https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform"><img src="assets/card-uip-guide.svg" width="100%" alt="Urban Informatics & Planning Guide"/></a>
+<p>Third-semester modules, concepts, tools and a downloadable PDF for BSc (Hons) Urban Informatics & Planning students, based on the student handbook.</p>
+<p><a href="https://react.dev/"><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/></a> <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a> <a href="https://vite.dev/guide/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></a></p>
+<p><a href="https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/"><img src="https://img.shields.io/badge/Live%20site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"/></a> <a href="https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform"><img src="https://img.shields.io/badge/Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a></p>
 </td>
 </tr>
 </table>
