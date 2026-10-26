@@ -1,5 +1,4 @@
-<!-- Header: animated wave (capsule-render, third-party) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1E3A8A&height=190&section=header&text=Thanuja%20Lakshan%20Senarathne&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Urban%20Informatics%20%26%20Planning%20%C2%B7%20University%20of%20Moratuwa&descAlignY=58&descSize=16" width="100%" alt="Thanuja Lakshan Senarathne — Urban Informatics & Planning, University of Moratuwa"/>
+<img src="assets/header.svg" width="100%" alt="Thanuja Lakshan Senarathne — Urban Informatics & Planning, University of Moratuwa"/>
 
 <div align="center">
 
