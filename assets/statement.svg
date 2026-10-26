@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif">
+<title>I build spatial tools that turn GIS analysis into decisions planners can act on.</title>
+<defs>
+<clipPath id="r1"><rect x="0" y="0" width="0" height="65"><animate attributeName="width" values="0;900;900;900;0" keyTimes="0;.22;.45;.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="r2"><rect x="0" y="65" width="0" height="65"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;.22;.42;.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+<linearGradient id="u" x1="0" x2="1"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></linearGradient>
+</defs>
+<text x="450.0" y="50" text-anchor="middle" font-size="28" font-weight="700" clip-path="url(#r1)"><tspan fill="#e2e8f0">I build </tspan><tspan fill="#5eead4">spatial tools</tspan><tspan fill="#e2e8f0"> that turn </tspan><tspan fill="#5eead4">GIS analysis</tspan></text>
+<text x="450.0" y="92" text-anchor="middle" font-size="28" font-weight="700" clip-path="url(#r2)"><tspan fill="#e2e8f0">into decisions </tspan><tspan fill="#5eead4">planners</tspan><tspan fill="#e2e8f0"> can act on.</tspan></text>
+<rect x="310.0" y="114" width="280" height="2" rx="1" fill="url(#u)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.42;.5;.9;1" dur="10s" repeatCount="indefinite"/><animate attributeName="width" values="0;0;280;280;0" keyTimes="0;.42;.55;.9;1" dur="10s" repeatCount="indefinite"/><animate attributeName="x" values="450.0;450.0;310.0;310.0;450.0" keyTimes="0;.42;.55;.9;1" dur="10s" repeatCount="indefinite"/></rect>
+</svg>
