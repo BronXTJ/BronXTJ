@@ -93,7 +93,7 @@
 ## 🧭 How I work
 
 <div align="center">
-  <img src="assets/how-i-work.svg" width="100%" alt="How I work: sketch on paper, analyse with GIS and remote sensing, build with manual coding plus AI-assisted coding, and own the design, data reading, testing and final code"/>
+  <img src="assets/how-i-work.svg" width="100%" alt="How I work: sketch on paper, analyse with GIS and remote sensing, build with manual plus AI-assisted coding, and own the design, data reading, testing and final code"/>
 </div>
 
 ## 📌 Currently
