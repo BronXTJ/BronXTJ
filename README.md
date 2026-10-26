@@ -28,7 +28,7 @@
 ### 🏙️ [Mount Lavinia Urban Analytics Dashboard](https://github.com/BronXTJ/mount-lavinia-dashboard)
 Studio decision-support app for five Grama Niladhari divisions on the Galle Road corridor: network centrality, density, walk access, land-cover change, and modelled thermal comfort, plus synthesis and issues/potentials.
 
-`React` `Leaflet` `D3` `Vite` `sDNA`
+<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/> <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white" alt="D3"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/sDNA-0F766E?style=flat-square" alt="sDNA"/>
 
 [**Live demo →**](https://bronxtj.github.io/mount-lavinia-dashboard/)
 
@@ -38,7 +38,7 @@ Studio decision-support app for five Grama Niladhari divisions on the Galle Road
 ### 🥋 [Py Dojo](https://github.com/BronXTJ/py-dojo)
 An offline-first path from beginner to Python and GIS programming: belts, a real interpreter in the page (Pyodide), and progress that stays in the browser. White Belt is built; later belts are mapped.
 
-`TypeScript` `React` `Pyodide` `Go`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pyodide"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 
 [**Live demo →**](https://bronxtj.github.io/py-dojo/)
 
@@ -50,7 +50,7 @@ An offline-first path from beginner to Python and GIS programming: belts, a real
 ### 🌊 [Sri Lanka Disaster Data Resource Hub](https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub)
 A public directory of verified datasets, dashboards, and relief links after Cyclone Ditwah. It indexes official and community sources; it does not generate data.
 
-`HTML` `Tailwind CSS`
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
 [**Live site →**](https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/)
 
@@ -60,7 +60,7 @@ A public directory of verified datasets, dashboards, and relief links after Cycl
 ### 📚 [Urban Informatics & Planning — 3rd Semester Guide](https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform)
 Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) Urban Informatics & Planning students, based on the student handbook.
 
-`React` `TypeScript` `Vite`
+<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 
 [**Live site →**](https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/)
 
@@ -96,7 +96,9 @@ Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) U
 
 ## 📌 Currently
 
-Continuing the Mount Lavinia studio dashboard.
+<div align="center">
+  <img src="assets/currently.svg" width="100%" alt="Currently experimenting with tools for land use and land cover (LULC) prediction and comparing their accuracy"/>
+</div>
 
 ---
 
