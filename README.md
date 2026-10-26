@@ -74,15 +74,25 @@ Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) U
 
 <div align="center">
 
-<!-- Only tools that appear in my repositories -->
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,vite,tailwind,d3,html,css,nodejs,go,git,githubactions&perline=13" alt="Python, TypeScript, JavaScript, React, Vite, Tailwind CSS, D3, HTML, CSS, Node.js, Go, Git, GitHub Actions"/>
-
+<!-- Only tools that appear in my repositories; each links to its official docs -->
+<a href="https://docs.python.org/3/" title="Python"><img src="https://skillicons.dev/icons?i=py" width="44" alt="Python"/></a>
+<a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"/></a>
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"/></a>
+<a href="https://vite.dev/guide/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="44" alt="Vite"/></a>
+<a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS"/></a>
+<a href="https://d3js.org/" title="D3"><img src="https://skillicons.dev/icons?i=d3" width="44" alt="D3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"/></a>
+<a href="https://nodejs.org/docs/latest/api/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"/></a>
+<a href="https://go.dev/doc/" title="Go"><img src="https://skillicons.dev/icons?i=go" width="44" alt="Go"/></a>
+<a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/></a>
+<a href="https://docs.github.com/en/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions"/></a>
 <br/>
-
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<a href="https://docs.qgis.org/latest/en/docs/" title="QGIS"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/></a>
+<a href="https://leafletjs.com/reference.html" title="Leaflet"><img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/></a>
+<a href="https://pyodide.org/en/stable/" title="Pyodide"><img src="https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pyodide"/></a>
+<a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
 
 </div>
 
