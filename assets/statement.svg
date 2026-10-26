@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif">
+<title>I build spatial tools that turn GIS analysis into decisions planners can act on.</title>
+<defs><clipPath id="r"><rect x="0" y="0" width="0" height="80"><animate attributeName="width" values="0;1000;1000;0" keyTimes="0;.35;.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<linearGradient id="u" x1="0" x2="1"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></linearGradient></defs>
+<text x="500.0" y="40" text-anchor="middle" font-size="25" font-weight="700" clip-path="url(#r)"><tspan fill="#e2e8f0">I build </tspan><tspan fill="#5eead4">spatial tools</tspan><tspan fill="#e2e8f0"> that turn </tspan><tspan fill="#5eead4">GIS analysis</tspan><tspan fill="#e2e8f0"> into decisions </tspan><tspan fill="#5eead4">planners</tspan><tspan fill="#e2e8f0"> can act on.</tspan></text>
+<rect x="500.0" y="60" width="0" height="2" rx="1" fill="url(#u)"><animate attributeName="width" values="0;0;320;320;0" keyTimes="0;.35;.48;.9;1" dur="9s" repeatCount="indefinite"/><animate attributeName="x" values="500.0;500.0;340.0;340.0;500.0" keyTimes="0;.35;.48;.9;1" dur="9s" repeatCount="indefinite"/></rect>
+</svg>

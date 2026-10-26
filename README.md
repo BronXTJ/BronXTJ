@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/BronXTJ">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Urban+Informatics+%26+Planning+undergraduate;GIS+%C2%B7+spatial+analysis;Python+%C2%B7+React+%C2%B7+Leaflet;Learning+data+engineering+%C2%B7+ML+%C2%B7+remote+sensing" alt="Typing headline: Urban Informatics & Planning undergraduate; GIS, spatial analysis; Python, React, Leaflet; learning data engineering, machine learning, remote sensing"/>
-</a>
-
-**I build spatial tools that turn GIS analysis into something a planner can use.**
+<img src="assets/statement.svg" width="100%" alt="I build spatial tools that turn GIS analysis into decisions planners can act on."/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thanuja--senarathne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-senarathne-1122a828b)
 [![Email](https://img.shields.io/badge/Email-thanujals1781%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanujals1781@gmail.com)
