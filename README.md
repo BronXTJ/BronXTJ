@@ -1,34 +1,118 @@
-# Thanuja Lakshan Senarathne
+<!-- Header: animated wave (capsule-render, third-party) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1E3A8A&height=190&section=header&text=Thanuja%20Lakshan%20Senarathne&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Urban%20Informatics%20%26%20Planning%20%C2%B7%20University%20of%20Moratuwa&descAlignY=58&descSize=16" width="100%" alt="Thanuja Lakshan Senarathne — Urban Informatics & Planning, University of Moratuwa"/>
 
-**Urban Informatics and Planning undergraduate**, University of Moratuwa.
+<div align="center">
 
-I build spatial tools that turn GIS analysis into something a planner can use.
+<a href="https://github.com/BronXTJ">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Urban+Informatics+%26+Planning+undergraduate;GIS+%C2%B7+spatial+analysis;Python+%C2%B7+React+%C2%B7+Leaflet;Learning+data+engineering+%C2%B7+ML+%C2%B7+remote+sensing" alt="Typing headline: Urban Informatics & Planning undergraduate; GIS, spatial analysis; Python, React, Leaflet; learning data engineering, machine learning, remote sensing"/>
+</a>
 
-🌐 [Dashboard](https://bronxtj.github.io/mount-lavinia-dashboard/) ·
-🌊 [Disaster data hub](https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/) ·
-📚 [3rd semester guide](https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/) ·
-💼 [LinkedIn](https://www.linkedin.com/in/thanuja-senarathne-1122a828b) ·
-✉️ [Email](mailto:thanujals1781@gmail.com)
+**I build spatial tools that turn GIS analysis into something a planner can use.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thanuja--senarathne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanuja-senarathne-1122a828b)
+[![Email](https://img.shields.io/badge/Email-thanujals1781%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanujals1781@gmail.com)
 
-## 🗂️ Work
+</div>
 
-🏙️ **[Mount Lavinia Urban Analytics Dashboard](https://github.com/BronXTJ/mount-lavinia-dashboard)** — studio decision-support app for five Grama Niladhari divisions on the Galle Road corridor, Mount Lavinia. Live maps for network centrality, density, walk access, land-cover change, and modelled thermal comfort, plus synthesis and issues/potentials.  
-[Open live demo →](https://bronxtj.github.io/mount-lavinia-dashboard/)
-
-🌊 **[Sri Lanka Disaster Data Resource Hub](https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub)** — a public directory of verified datasets, dashboards, and relief links after Cyclone Ditwah. The hub indexes official and community sources; it does not generate the underlying data.  
-[Open live site →](https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/)
-
-📚 **[Urban Informatics & Planning — 3rd Semester Guide](https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform)** — a learning guide for BSc (Hons) Urban Informatics & Planning students at the University of Moratuwa. It presents third-semester modules, concepts, tools, and a downloadable PDF based on the student handbook.  
-[Open live demo →](https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/)
+<!-- TODO (optional): pixel-art banner, e.g. assets/pixel-colombo.gif — an 8-bit Galle Road / coastline loop.
+     Must be your own artwork (Aseprite/Piskel) or properly licensed; keep it under ~1 MB. -->
 
 ---
 
-## 🛠️ How I work
+## 🗂️ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [Mount Lavinia Urban Analytics Dashboard](https://github.com/BronXTJ/mount-lavinia-dashboard)
+Studio decision-support app for five Grama Niladhari divisions on the Galle Road corridor: network centrality, density, walk access, land-cover change, and modelled thermal comfort, plus synthesis and issues/potentials.
+
+`React` `Leaflet` `D3` `Vite` `sDNA`
+
+[**Live demo →**](https://bronxtj.github.io/mount-lavinia-dashboard/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥋 [Py Dojo](https://github.com/BronXTJ/py-dojo)
+An offline-first path from beginner to Python and GIS programming: belts, a real interpreter in the page (Pyodide), and progress that stays in the browser. White Belt is built; later belts are mapped.
+
+`TypeScript` `React` `Pyodide` `Go`
+
+[**Live demo →**](https://bronxtj.github.io/py-dojo/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [Sri Lanka Disaster Data Resource Hub](https://github.com/BronXTJ/Sri-Lanka-Disaster-Data-Resource-Hub)
+A public directory of verified datasets, dashboards, and relief links after Cyclone Ditwah. It indexes official and community sources; it does not generate data.
+
+`HTML` `Tailwind CSS`
+
+[**Live site →**](https://bronxtj.github.io/Sri-Lanka-Disaster-Data-Resource-Hub/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Urban Informatics & Planning — 3rd Semester Guide](https://github.com/BronXTJ/Urban-Informatics-Planning-Student-Guide-Platform)
+Third-semester modules, concepts, tools, and a downloadable PDF for BSc (Hons) Urban Informatics & Planning students, based on the student handbook.
+
+`React` `TypeScript` `Vite`
+
+[**Live site →**](https://bronxtj.github.io/Urban-Informatics-Planning-Student-Guide-Platform/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools I use
+
+<div align="center">
+
+<!-- Only tools that appear in my repositories -->
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,vite,tailwind,d3,html,css,nodejs,go,git,githubactions&perline=13" alt="Python, TypeScript, JavaScript, React, Vite, Tailwind CSS, D3, HTML, CSS, Node.js, Go, Git, GitHub Actions"/>
+
+<br/>
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+</div>
+
+---
+
+## 🧭 How I work
 
 I sketch information architecture on paper first, then implement it. Analysis uses GIS and remote sensing; interfaces use React and Leaflet. I use AI-assisted coding in [Cursor](https://cursor.com/). Design choices, data interpretation, testing, and final code are mine.
 
 ## 📌 Currently
 
 Continuing the Mount Lavinia studio dashboard.
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+<!-- Generated by .github/workflows/snake.yml from my real contribution graph, published to the `output` branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BronXTJ/BronXTJ/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/BronXTJ/BronXTJ/output/github-snake.svg" alt="Contribution graph being eaten by a snake"/>
+</picture>
+</div>
+
+<!-- Optional, third-party and sometimes rate-limited. Uncomment if you want it.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BronXTJ&layout=compact&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=8B949E" alt="Most used languages in public repos"/>
+</div>
+-->
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F766E&height=110&section=footer" width="100%" alt=""/>
