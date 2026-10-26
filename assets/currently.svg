@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<title>Currently experimenting with tools for land use and land cover (LULC) prediction and comparing their accuracy. Illustrative animation, not real results.</title>
+<title>Currently experimenting with tools for land use and land cover (LULC) prediction and comparing their accuracy.</title>
 <defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#134e4a"/></linearGradient></defs>
 <rect width="900" height="270" rx="18" fill="url(#bg)"/>
 <rect x="36" y="36" width="273" height="178" rx="6" fill="none" stroke="#334155"/>
@@ -21,14 +21,17 @@
 <text x="360" y="98" fill="#f1f5f9" font-size="24" font-weight="700">Experimenting with LULC prediction</text>
 <text x="360" y="126" fill="#cbd5e1" font-size="15">Testing different tools for land use / land cover prediction</text>
 <text x="360" y="147" fill="#cbd5e1" font-size="15">and comparing how accurate each one is.</text>
-<line x1="380" y1="196" x2="620" y2="196" stroke="#14b8a6" stroke-width="4" stroke-linecap="round"/>
-<line x1="620" y1="196" x2="840" y2="196" stroke="#f59e0b" stroke-width="4" stroke-dasharray="7 6" stroke-linecap="round"/>
-<g font-size="11" fill="#94a3b8" text-anchor="middle">
- <circle cx="380" cy="196" r="4" fill="#14b8a6"/><text x="380" y="220">Past</text>
- <circle cx="620" cy="196" r="4" fill="#14b8a6"/><text x="620" y="220">Today</text>
- <circle cx="840" cy="196" r="4" fill="#f59e0b"/><text x="840" y="220">Future</text>
- <text x="500" y="184" fill="#5eead4">observed</text><text x="730" y="184" fill="#fbbf24">predicted</text>
+<rect x="374" y="190" width="472" height="12" rx="6" fill="#1e293b"/>
+<line x1="380" y1="196" x2="620" y2="196" stroke="#14b8a6" stroke-width="8" stroke-linecap="round"/>
+<line x1="620" y1="196" x2="840" y2="196" stroke="#f59e0b" stroke-width="8" stroke-dasharray="12 7" stroke-linecap="round" opacity=".9"/>
+<rect x="374" y="190" width="0" height="12" rx="6" fill="#f8fafc" opacity=".18"><animate attributeName="width" values="0;472;472" keyTimes="0;.97;1" dur="8s" repeatCount="indefinite"/></rect>
+<g font-size="13" font-weight="600" fill="#cbd5e1" text-anchor="middle">
+ <circle cx="380" cy="196" r="6" fill="#14b8a6" stroke="#0f172a" stroke-width="2"/><text x="380" y="226">Past</text>
+ <circle cx="620" cy="196" r="6" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/><text x="620" y="226" fill="#f8fafc">Today</text>
+ <circle cx="840" cy="196" r="6" fill="#f59e0b" stroke="#0f172a" stroke-width="2"/><text x="840" y="226">Future</text>
 </g>
-<circle cx="380" cy="196" r="8" fill="#f8fafc" stroke="#0f172a" stroke-width="2"><animate attributeName="cx" values="380;840;840" keyTimes="0;.97;1" dur="8s" repeatCount="indefinite"/></circle>
-<text x="360" y="252" fill="#64748b" font-size="11">Illustrative animation · not model results</text>
+<g font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1">
+ <text x="500" y="178" fill="#5eead4">OBSERVED</text><text x="730" y="178" fill="#fbbf24">PREDICTED</text>
+</g>
+<circle cx="380" cy="196" r="10" fill="#f8fafc" stroke="#0f172a" stroke-width="3"><animate attributeName="cx" values="380;840;840" keyTimes="0;.97;1" dur="8s" repeatCount="indefinite"/></circle>
 </svg>
