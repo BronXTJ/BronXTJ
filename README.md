@@ -72,6 +72,19 @@
 <a href="https://leafletjs.com/reference.html" title="Leaflet"><img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/></a>
 <a href="https://pyodide.org/en/stable/" title="Pyodide"><img src="https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pyodide"/></a>
 <a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+<br/>
+
+<a href="https://geopandas.org/en/stable/docs.html" title="GeoPandas"><img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas"/></a>
+<a href="https://shapely.readthedocs.io/en/stable/" title="Shapely"><img src="https://img.shields.io/badge/Shapely-3E7CB1?style=for-the-badge" alt="Shapely"/></a>
+<a href="https://rasterio.readthedocs.io/en/stable/" title="Rasterio"><img src="https://img.shields.io/badge/Rasterio-4B5563?style=for-the-badge" alt="Rasterio"/></a>
+<a href="https://pyproj4.github.io/pyproj/stable/" title="pyproj"><img src="https://img.shields.io/badge/pyproj-2F6F8F?style=for-the-badge" alt="pyproj"/></a>
+<a href="https://developers.google.com/earth-engine/guides" title="Earth Engine"><img src="https://img.shields.io/badge/Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Earth Engine"/></a>
+<a href="https://scikit-learn.org/stable/user_guide.html" title="scikit-learn"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
+<a href="https://pandas.pydata.org/docs/" title="pandas"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
+<a href="https://numpy.org/doc/stable/" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://matplotlib.org/stable/" title="Matplotlib"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/></a>
+<a href="https://networkx.org/documentation/stable/" title="NetworkX"><img src="https://img.shields.io/badge/NetworkX-2C5F8A?style=for-the-badge" alt="NetworkX"/></a>
+<a href="https://python-visualization.github.io/folium/latest/" title="Folium"><img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white" alt="Folium"/></a>
 
 </div>
 
